@@ -1,6 +1,6 @@
 # Hi there, I'm Sreeja 👋
 
-**Lead Engineer specializing in DevOps and cloud infrastructure automation, with a passion for AI and advancing developer experience.**
+**Lead Engineer specializing in DevOps and Cloud Infrastructure automation, with a passion for AI and advancing developer experience.**
 
 ---
 
