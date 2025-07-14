@@ -25,6 +25,7 @@
 
 ### 🌱 Currently Learning
 
+- AWS Infrastructure Automation
 - Artificial Intelligence (AI)
 - Developer Experience best practices
 - Venture Capitalism
