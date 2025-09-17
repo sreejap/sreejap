@@ -28,8 +28,8 @@
 - AWS Infrastructure Automation
 - Artificial Intelligence (AI)
 - Developer Experience best practices
-- Venture Capitalism
+- Venture Capital
 
 ---
 
-*Thanks for visiting my profile! Feel free to check out my repositories or connect with me to talk about tech, cloud automation, AI, or venture capitalism.*
+*Thanks for visiting my profile! Feel free to check out my repositories or connect with me to talk about tech, cloud automation, AI, or venture capital.*
